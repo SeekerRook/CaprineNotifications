@@ -18,4 +18,5 @@ You can add ot to autostart programms. notifies only while Caprine is running
 # TODO
 - [ ] Remove Comments
 - [ ] use  /tmp or other existing folder instead of ~/tmp
+- [ ] Open Caprine on Notification click
 - [ ] Test on other DEs
