@@ -1,5 +1,5 @@
-# CaprineNotifications
-A script that Notifies  Desktop Environment for incomming Messages in Caprine
+# Caprine Notifications
+A set of scripts that Notifies  Desktop Environment for incomming Messages in Caprine
 
 ## Requirements:
 caprine
