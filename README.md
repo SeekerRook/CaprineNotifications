@@ -1,5 +1,5 @@
-# CaprineNotifications
-A script that Notifies  Desktop Environment for incomming Messages in Caprine
+# Caprine Notifications
+A set of scripts that Notifies  Desktop Environment for incomming Messages in Caprine
 
 ## Requirements:
 caprine
@@ -18,4 +18,5 @@ You can add ot to autostart programms. notifies only while Caprine is running
 # TODO
 - [ ] Remove Comments
 - [ ] use  /tmp or other existing folder instead of ~/tmp
+- [ ] Open Caprine on Notification click
 - [ ] Test on other DEs
