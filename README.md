@@ -17,5 +17,6 @@ run `cninit`
 You can add ot to autostart programms. notifies only while Caprine is running
 
 # TODO
-- [ ] use  /tmp or other existing folder instead of ~/tmp
 - [ ] Test on other DEs
+- [ ] Show Notifications Number
+- [ ] Show Sender and Content
