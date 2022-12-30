@@ -5,7 +5,7 @@ from time import sleep
 content = ''
 flag = True
 while True:
-    with open (str(Path.home())+"/tmp/notifications",'r') as f:
+    with open ("/tmp/notifications",'r') as f:
         content = f.read().replace(' ','').replace('\n','')
 
     if (content != '' and flag):
