@@ -7,7 +7,8 @@ python3
 KDE Plasma (only tested there)
 
 ## Installation
-./install.sh
+`./install.sh`
+
 create ~/tmp/notifications *(will fix in future)
 
 ## Usage
@@ -16,7 +17,5 @@ run `cninit`
 You can add ot to autostart programms. notifies only while Caprine is running
 
 # TODO
-- [ ] Remove Comments
 - [ ] use  /tmp or other existing folder instead of ~/tmp
-- [ ] Open Caprine on Notification click
 - [ ] Test on other DEs
