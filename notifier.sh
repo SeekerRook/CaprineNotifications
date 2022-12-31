@@ -2,8 +2,8 @@ res=$(notify-send -A 'Open Caprine' -i ~/.local/share/icons/cn.png "New messages
 if [[ $? != 0 ]]; then
     echo "Error"  
 elif [[ $res ]]; then
-    echo "Openning Caprine...";
+    echo "Opening Caprine...";
     caprine
 else
-    echo "Exiting"
+    echo "Exit"
 fi
